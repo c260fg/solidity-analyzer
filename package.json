@@ -1,7 +1,7 @@
 {
-  "name": "@nomicfoundation/solidity-analyzer",
-  "version": "0.1.2",
-  "repository": "github:NomicFoundation/solidity-analyzer",
+  "name": "@themartiancompany/solidity-analyzer",
+  "version": "0.1.2.1",
+  "repository": "github:themartiancompany/solidity-analyzer",
   "main": "index.js",
   "types": "index.d.ts",
   "files": [
